@@ -1,7 +1,10 @@
 plugin-repo
 ===========
 This repository was created for sharing copies of publicly available libraries,
-modules and plugins. The goal is to prevent a situation where required inks to plugins are broken Additionally, this will allow us to maintain version control of the plugins. For Example - http://malsup.github.com/jquery.cycle.js
+modules and plugins. The goal is to prevent a situation where required inks to 
+plugins are broken, and version of plugin is unknown. Additionally, this will
+allow us to maintain version control of the plugins.
+
 
 If you need a module that doesn't exist, you should add it yourself.
 
